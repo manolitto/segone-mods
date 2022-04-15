@@ -4,7 +4,10 @@
 
 These instructions show how you can modify Segone tiles to reflect your personal preferences.
 
-Please support Simon's awesome campaign on [Kickstarter](https://www.kickstarter.com/projects/segonefantasystl/segone-show-them-your-world-stl-and-pdf-fantasy-map)!
+Please support Simon's awesome
+<a href="https://www.kickstarter.com/projects/segonefantasystl/segone-show-them-your-world-stl-and-pdf-fantasy-map" target="_blank">Segone: show them your world (stl and pdf fantasy map)</a> campaign 
+on 
+<a href="https://www.kickstarter.com/projects/segonefantasystl/segone-show-them-your-world-stl-and-pdf-fantasy-map" target="_blank">Kickstarter</a>!
 
 ## Replace original "H" connectors by OpenLOCK clipping
 
@@ -75,7 +78,13 @@ Hit the "Slice now" button and double check the result:
 
 ## Credits
 
-All "Segone - show them your world" designs are copyrighted and the intellectual property of Simon Bertrand.
+All <a href="https://www.kickstarter.com/projects/segonefantasystl/segone-show-them-your-world-stl-and-pdf-fantasy-map" target="_blank">"Segone: show them your world (stl and pdf fantasy map)"</a> designs are copyrighted and the intellectual property of Simon Bertrand ("Stressed_Racoon" / "The Raccoon Brotherhood"):
+
+<a href="https://www.kickstarter.com/projects/segonefantasystl/segone-show-them-your-world-stl-and-pdf-fantasy-map/creator_bio" target="_blank">Stressed_Racoo @ Kickstarter</a>
+
+<a href="https://www.facebook.com/TheRaccoonBrotherhood" target="_blank">The Raccoon Brotherhood @ Facebook</a>
+
+<br/>
 
 The OpenLOCK system was created by [Printablescenery](https://www.printablescenery.com/product/open-lock/).
 
