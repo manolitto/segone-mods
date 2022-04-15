@@ -2,7 +2,7 @@
 
 ## About
 
-These instructions show how you can modify Segone Tiles to reflect your personal preferences.
+These instructions show how you can modify Segone tiles to reflect your personal preferences.
 
 Please support Simon's awesome campaign on [Kickstarter](https://www.kickstarter.com/projects/segonefantasystl/segone-show-them-your-world-stl-and-pdf-fantasy-map)!
 
