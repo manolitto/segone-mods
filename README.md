@@ -1,4 +1,4 @@
-# Mods for Segone "show them your world" 
+# Mods for "Segone: show them your world" tiles
 
 ## About
 
